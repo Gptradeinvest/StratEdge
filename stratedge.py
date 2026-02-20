@@ -24,7 +24,7 @@ Usage:
     python pipe.py --optimize --n-iter 100  # random search paramètres
     python pipe.py --daily                  # mode cron incrémental
 
-Gaëtan Music — 2025
+Gaetan PRUVOT — 2026
 """
 
 import os
